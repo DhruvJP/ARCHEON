@@ -1,4 +1,4 @@
-- ARCHEON is a project developed by Dhruv Patel and Tejeshwar Natarajan using React.js, Typescript, and Tailwind CSS for the Frontend, Open AI GPT-4 for the artificial intelligence (AI) component, Node.js for the backend workflows, and MongoDB for the database. It provides a seamless experience for small businesses to develop customer service agents without any software development experience or knowledge.
+- ARCHEON is a project developed by Dhruv Patel and Tejeshwar Natarajan to provide a seamless experience for small businesses to develop customer service agents without any software development experience or knowledge. It uses React.js, Typescript, and Tailwind CSS for the Frontend, Open AI GPT-4 for the artificial intelligence (AI) component, Node.js for the backend workflows, and MongoDB for the database.
 
 # React + TypeScript + Vite
 
